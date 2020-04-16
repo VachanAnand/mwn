@@ -1,8 +1,4 @@
 
-Hoot HOOT
-
-HEYYY
-olaola ola 
 <?php
 /**
  * The template for displaying home page.
