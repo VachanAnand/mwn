@@ -1,3 +1,4 @@
+olaola ola 
 <?php
 /**
  * The template for displaying home page.
