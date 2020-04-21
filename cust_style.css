@@ -1,0 +1,19 @@
+
+#each_vet{
+    border: 1px solid black;
+    width: 50%;
+    height:100px;
+    margin-top: 20px;
+}
+.vet_image{
+    border : 1px solid black;
+    height : 100px;
+    width : 100px;
+    float: left;
+    margin-right: 50px;
+
+}
+
+.vet_title{
+    text-align: center;
+}
